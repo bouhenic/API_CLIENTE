@@ -1,4 +1,4 @@
 # API_CLIENTE
 Application android Cliente API REST :
 
-![center](apicliente.jpg)
+![center,50%](apicliente.jpg)
